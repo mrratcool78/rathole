@@ -27,6 +27,7 @@ A custom Chromium-based browser built with Electron by mrrat and Gravity.
 
 ### Special Features
 - 🐀 **rcked Easter Egg** - Search "rcked" for a special result
+- 🐍 **snake Easter Egg** - Search "rat" for a little game
 - 🧀 Floating cheese and rat animations on homepage
 - 🎨 Pink and dark theme throughout
 - 💾 Persistent cookies and sessions
@@ -142,7 +143,6 @@ See [LICENSE](LICENSE) for details.
 
 ## 🔮 Future Features
 
-- [ ] Browser tabs
 - [ ] Bookmark manager
 - [ ] Download manager
 - [ ] Extensions support
@@ -153,7 +153,6 @@ See [LICENSE](LICENSE) for details.
 ## 💬 Feedback
 
 Found a bug? Have a feature request? 
-- Use the thumbs down button in the browser
 - Open an issue on GitHub
 - Contact mrratcool78
 
